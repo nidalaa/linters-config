@@ -1,6 +1,6 @@
 # linters-config
 
-## How to use this repo? 🤔
+## How to use this repo??🤔
 
 Each directory listed below contains config files specific to one programming language and README file with detailed instructions:
 
